@@ -6,6 +6,16 @@
       <list>
         <option value="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" />
         <option value="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-system/xuecheng-plus-system-service/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/xuecheng-plus-media/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job-2.3.1/pom.xml" />
       </list>
     </option>
   </component>
